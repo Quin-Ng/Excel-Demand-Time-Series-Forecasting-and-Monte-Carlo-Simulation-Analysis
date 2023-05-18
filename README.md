@@ -1,4 +1,4 @@
-# Time Series Forecasting and Monte Carlo Simulation on Green Produce Demand and Safety Stock Calculation
+# Time Series Forecasting and Monte Carlo Simulation on Green Produce Demand and Safety Stock and Re-order point Calculation
 ## Introduction
 This is a project I worked on for my Operations Analytics module in MSc Business Analytics.
 In this project, I was tasked to conduct time series forecasting and Monte Carlo simulation analysis on a fictitious dataset of monthly demand for green produce at Tesco with 324 observations. The time series is additive and has a seasonality of 12 months.
